@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Training artifacts
+qwen-spider-output/
+unsloth_compiled_cache/
+output/
+outputs/
+checkpoints/
+runs/
+logs/
+
+# Data
+data/
+datasets/
+
+# Env
+.env
+
+
