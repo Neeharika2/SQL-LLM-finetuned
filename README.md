@@ -3,6 +3,10 @@
 Fine-tuning a pretrained LLM for Natural Language → SQL using the Spider dataset
 and Unsloth for efficient LoRA-based training.
 
+## Trained Model
+LoRA adapter available on Hugging Face:  
+https://huggingface.co/Neeharika20/qwen-spider-lora
+
 ## Highlights
 - Base model: Qwen/Qwen3-4B-Instruct-2507
 - Fine-tuning method: LoRA
