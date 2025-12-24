@@ -4,7 +4,7 @@ Fine-tuning a pretrained LLM for Natural Language → SQL using the Spider datas
 and Unsloth for efficient LoRA-based training.
 
 ## Trained Model
-LoRA adapter available on Hugging Face:  
+Model available on Hugging Face:  
 [https://huggingface.co/Neeharika20/qwen-spider-lora](https://huggingface.co/Neeharika20/qwen3-4b-nl2sql)
 
 ## Highlights
